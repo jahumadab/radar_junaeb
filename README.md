@@ -1,3 +1,7 @@
+## Demostración
+![Preview](2026-01-17%2012-41-05.gif)
+
+
 # Proyecto con Docker Compose - Entornos de Desarrollo y Producción
 
 Este proyecto utiliza Docker Compose para gestionar entornos de desarrollo y producción separados. A continuación se presentan los comandos para levantar y detener los contenedores en cada entorno.
